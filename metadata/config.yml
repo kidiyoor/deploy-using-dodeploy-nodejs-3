@@ -1,5 +1,5 @@
 ---
 cmd:
   - sudo npm install -g pm2
-  - cd /root/deploy-using-dodeploy-nodejs && sudo npm install
-  - cd /root/deploy-using-dodeploy-nodejs && pm2 start app.js
+  - cd /root/deploy-using-dodeploy-nodejs-3 && sudo npm install
+  - cd /root/deploy-using-dodeploy-nodejs-3 && pm2 start app.js
